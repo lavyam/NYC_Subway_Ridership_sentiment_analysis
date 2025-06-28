@@ -1,4 +1,4 @@
-// Introduction 
+## Introduction 
 
 The New York City subway system is one of the largest, most popular and complex public transit networks in the world. It serves thousands if not millions of commuters each day. It is very well known for its efficiency and connectivity, but is also notoriously famous for its delays and safety concerns on a daily basis. In the era of social media, there is a lot of conversation about how the public feels about the MTA. 
 
